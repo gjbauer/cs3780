@@ -108,7 +108,8 @@ and terminology, and introduce various ways of providing mathematical proof.
 * [Math has a fatal flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 * What does the [pigeonhole principle](https://www.youtube.com/watch?v=4Dz4vNUxnZM) mean and where could it be used?
 * More [examples](https://math.berkeley.edu/~rhzhao/10BSpring19/Worksheets/Discussion%203%20Solutions.pdf) on the pigeon-hole principle
-* **Homework** for this Chapter is due by 9 p.m. on Monday, September 18, 2023.- ### [Finite automata and regular languages](notes/CS378/note2.pdf)
+* **Homework** for this Chapter is due by 9 p.m. on Monday, September 18, 2023.
+- ### [Finite automata and regular languages](notes/CS378/note2.pdf)
 
 Define, analyze and design finite automata(FA), the class of simplest computers. Prove the equivalence between deterministic finite automata(DFA) and non-deterministic finite automata(NFA), as well as that between FA and regular expressions. Demonstrate various closure properties enjoyed by the languages accepted by FA, and the existence of strictly stronger automata via pumping lemma.
 
@@ -116,11 +117,12 @@ Define, analyze and design finite automata(FA), the class of simplest computers.
 * A [colorful perspective](http://grammarware.net/slides/2014/regular.pdf) of regular languages in the formal language hierarchy
 * [Applications](http://cs.wellesley.edu/~cs235/fall11/lectures/22_reglang_apps.pdf) of regular languages
 * More [applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.4212&rep=rep1&type=pdf) of regular laguages
-* Dana Scott on [NFA* Some notions and examples of [logic arguments](https://www.csm.ornl.gov/~sheldon/ds/sec1.3.html)
+* Dana Scott on [NFA](notes/CS378/danaScottACM082022.pdf)
+* Some notions and examples of [logic arguments](https://www.csm.ornl.gov/~sheldon/ds/sec1.3.html)
 * Some notions and examples of [contrapositive arguments](http://math.armstrong.edu/faculty/lambert/ConverseInverseAndContrapositiveStatements.html)
 * [The language containing the same number of 01 and 10 is regular](https://www.youtube.com/watch?v=yuFF0gXC6HU).
 * A bit more about [Pumping Lemma](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages#:~:text=plus%20one.,Bar%2DHillel%2C%20Micha%20A.) for the regular language
-* **Homework** for this Chapter is due by 9 p.m. on Monday, October 9, 2023. **You have to type it up**.](notes/CS378/danaScottACM082022.pdf)
+* **Homework** for this Chapter is due by 9 p.m. on Monday, October 9, 2023. **You have to type it up**.
 
 - ### [Push-down automata and context-free languages](notes/CS378/note3.pdf)
 
