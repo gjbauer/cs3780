@@ -137,7 +137,8 @@ Define, analyze and design Push-down automata(PDA) and its corresponding formal 
 * More about [Noam Chomskey](https://en.wikipedia.org/wiki/Noam_Chomsky)
 * The [CYK Parsing algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) as included in JFlag is based on Chomskey's normal form.
 * Something about the [c-flat](https://www.cs.nmsu.edu/~dfoesch/Cb/SPECIFICATIONS.html) language
-* What about [non-determinism](notes/CS378/nond.pdf)?* [ACM 2020 Turing Award on compilers](notes/CS378/compilerCACM102021.pdf)
+* What about [non-determinism](notes/CS378/nond.pdf)?
+* [ACM 2020 Turing Award on compilers](notes/CS378/compilerCACM102021.pdf)
 * [LL grammar](https://en.wikipedia.org/wiki/LL_grammar) and [LL parser](https://en.wikipedia.org/wiki/LL_parser)
 * [LR parser](https://en.wikipedia.org/wiki/LR_parser)
 * **Homework** for this Chapter is due by 9 p.m., on October 23, 2023. **You have to type it up**.
