@@ -138,7 +138,8 @@ Define, analyze and design Push-down automata(PDA) and its corresponding formal 
 * [LL grammar](https://en.wikipedia.org/wiki/LL_grammar) and [LL parser](https://en.wikipedia.org/wiki/LL_parser)
 * [LR parser](https://en.wikipedia.org/wiki/LR_parser)
 * **Homework** for this Chapter is due by 9 p.m., on October 23, 2023. **You have to type it up**.
-* **Midterm**: Wednesday, October 25, 2023- ### [Computability](notes/CS378/note4.pdf)
+* **Midterm**: Wednesday, October 25, 2023
+- ### [Computability](notes/CS378/note4.pdf)
 
 Define, analyze and design Turing Machines(TM) and its variants. Discussion
 of the equivalency with respect to various computational models. Define general algorithms via Church-Turing Thesis.
