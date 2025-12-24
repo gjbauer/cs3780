@@ -86,7 +86,8 @@ Resources:
 * [What language does monkey speak?](https://en.wikipedia.org/wiki/Great_ape_language)
 * [Animals are talking... What does it mean?](https://www.nytimes.com/2023/09/20/magazine/animal-communication.html?unlocked_article_code=HgPg051C47HcTqdScXZDbM_7mYgBskTk6e-ryxmggqjTe-d2fOiMZyXA6bA2Dz9LZhZRZT15WQBav3-zZlIxmbW1A7B_9Efq4dL9o5ab9uCHPAryRvN7Ks_UJTe340VbNVmjURQUpD0yWCe7DaQE07uTq8mpSkVkxZxp7WZk84piNdno0B5fXEl4eRpCgr_10s6D26vEKXw_cbPqQCSYpQE3KxteLD29nd_ucIqLIOySMLcGUsQbOoDXoZJkjJH6bVaDpdQXBIbiGFVJLnI4Ahry1tCvpvJzycgD7H1RHoq2muOAaR42V3eeAexTxPSrMQFL-_oierVVw-kOGFLc&smid=url-share)
 * [Can we talk to whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
-* Further reading of the [Halting](https://brilliant.org/wiki/halting-problem/) problem* Progress in solving the  [SAT](notes/CS378/SATSolverCACM062023.pdf) problem
+* Further reading of the [Halting](https://brilliant.org/wiki/halting-problem/) problem
+* Progress in solving the  [SAT](notes/CS378/SATSolverCACM062023.pdf) problem
 * [ACM 2020 Turing Award on compilers](notes/CS378/compilerCACM102021.pdf)
 * A general introduction to [minimum Stenier tree](https://en.wikipedia.org/wiki/Steiner_tree_problem)
 * Some [applications](https://personal.utdallas.edu/~besp/teaching/mst-applications.pdf) of minimum Steiner tree
