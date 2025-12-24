@@ -68,8 +68,8 @@ Resources:
 *, [Thompson Course Technology](http://www.course.com/), Boston, MA, 2013.
 * **Software:** (*Required but free*) [JFLAP: An automata simulator](https://www2.cs.duke.edu/csed/jflap/)
 * **Additional stuff:**
-      - (*Optional and free* ) Linz, P., and Roger, S. H., [JFLAP activities for formal languages and automata](notes/CS378/JFLAPActivities.pdf), Feb., 2011
-      - (*Optional and free* ) Morris, J., [Combinatorics]( https://open.umn.edu/opentextbooks/textbooks/combinatorics), Indepedent, 2017.
+   - (*Optional and free* ) Linz, P., and Roger, S. H., [JFLAP activities for formal languages and automata](notes/CS378/JFLAPActivities.pdf), Feb., 2011
+   - (*Optional and free* ) Morris, J., [Combinatorics]( https://open.umn.edu/opentextbooks/textbooks/combinatorics), Indepedent, 2017.
 
 ---
 
