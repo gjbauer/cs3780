@@ -91,8 +91,8 @@ Resources:
 * A general introduction to [minimum Stenier tree](https://en.wikipedia.org/wiki/Steiner_tree_problem)
 * Some [applications](https://personal.utdallas.edu/~besp/teaching/mst-applications.pdf) of minimum Steiner tree
 * [History of AI (I)](notes/CS378/aiHIistoryCACM062023.pdf)
-* A [better wayof teacing this course?
-* A more fitting [model of computation](notes/CS378/modelComputation.pdf)](notes/CS378/ToCACM102020.pdf)
+* A [better way](notes/CS378/ToCACM102020.pdf) of teacing this course?
+* A more fitting [model of computation](notes/CS378/modelComputation.pdf)
 - ### [Mathy background](notes/CS378/note1.pdf)
 
 Review and preview various mathematical notions
