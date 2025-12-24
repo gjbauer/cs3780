@@ -167,8 +167,8 @@ Discuss the general computability issue in terms of various decidable prblems, p
 Introduction of the *reduction* technique in proving more undecidable problems such as the *Post Correspondence Problem.*
 
 * Further [reading](https://math.stackexchange.com/questions/231187/an-efficient-way-to-determine-if-two-context-free-grammars-are-equivalent) on the undecidability of the equivalence regarding context-free grammers
-* Further [reading](https://people.ksp.sk/~kuko/pcp/#intro) on the Post Correspondence problem* About the 
-"[Back to the future](https://www.imdb.com/title/tt0088763/?ref_=fn_al_tt_1)" movie...
+* Further [reading](https://people.ksp.sk/~kuko/pcp/#intro) on the Post Correspondence problem
+* About the "[Back to the future](https://www.imdb.com/title/tt0088763/?ref_=fn_al_tt_1)" movie...
 
 ![](turkey.jpg)
 
