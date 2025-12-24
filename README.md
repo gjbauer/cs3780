@@ -98,33 +98,77 @@ Resources:
 Review and preview various mathematical notions
 and terminology, and introduce various ways of providing mathematical proof.
 
-* [One-way streets](http://calmstreetsboston.blogspot.com/2010/05/one-way-street-with-reversing-direction.html) in Boston* More [3-regular](https://mathworld.wolfram.com/CubicPolyhedralGraph.html) graphs* What about [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens)?* [There are infinite number of prime numbers.](https://en.wikipedia.org/wiki/Euclid%27s_theorem#:~:text=Euclid's%20theorem%20is%20a%20fundamental,Euclid%20in%20his%20work%20Elements.)* [Prime factorization result](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic#:~:text=In%20number%20theory%2C%20the%20fundamental,that%2C%20moreover%2C%20this%20representation%20is)* [How to find a prime factorization of a number](https://study.com/academy/lesson/how-to-find-the-prime-factorization-of-a-number.html)?* [Math has a fatal flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)* What does the [pigeonhole principle](https://www.youtube.com/watch?v=4Dz4vNUxnZM) mean and where could it be used?* More [examples](https://math.berkeley.edu/~rhzhao/10BSpring19/Worksheets/Discussion%203%20Solutions.pdf) on the pigeon-hole principle* **Homework** for this Chapter is due by 9 p.m. on Monday, September 18, 2023.- ### [Finite automata and regular languages](notes/CS378/note2.pdf)
+* [One-way streets](http://calmstreetsboston.blogspot.com/2010/05/one-way-street-with-reversing-direction.html) in Boston
+* More [3-regular](https://mathworld.wolfram.com/CubicPolyhedralGraph.html) graphs
+* What about [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens)?
+* [There are infinite number of prime numbers.](https://en.wikipedia.org/wiki/Euclid%27s_theorem#:~:text=Euclid's%20theorem%20is%20a%20fundamental,Euclid%20in%20his%20work%20Elements.)
+* [Prime factorization result](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic#:~:text=In%20number%20theory%2C%20the%20fundamental,that%2C%20moreover%2C%20this%20representation%20is)
+* [How to find a prime factorization of a number](https://study.com/academy/lesson/how-to-find-the-prime-factorization-of-a-number.html)?
+* [Math has a fatal flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+* What does the [pigeonhole principle](https://www.youtube.com/watch?v=4Dz4vNUxnZM) mean and where could it be used?
+* More [examples](https://math.berkeley.edu/~rhzhao/10BSpring19/Worksheets/Discussion%203%20Solutions.pdf) on the pigeon-hole principle
+* **Homework** for this Chapter is due by 9 p.m. on Monday, September 18, 2023.- ### [Finite automata and regular languages](notes/CS378/note2.pdf)
 
 Define, analyze and design finite automata(FA), the class of simplest computers. Prove the equivalence between deterministic finite automata(DFA) and non-deterministic finite automata(NFA), as well as that between FA and regular expressions. Demonstrate various closure properties enjoyed by the languages accepted by FA, and the existence of strictly stronger automata via pumping lemma.
 
-* A [richer finite state automata](notes/CS378/DFACACM052021.pdf)* A [colorful perspective](http://grammarware.net/slides/2014/regular.pdf) of regular languages in the formal language hierarchy* [Applications](http://cs.wellesley.edu/~cs235/fall11/lectures/22_reglang_apps.pdf) of regular languages* More [applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.4212&rep=rep1&type=pdf) of regular laguages* Dana Scott on [NFA* Some notions and examples of [logic arguments](https://www.csm.ornl.gov/~sheldon/ds/sec1.3.html)* Some notions and examples of [contrapositive arguments](http://math.armstrong.edu/faculty/lambert/ConverseInverseAndContrapositiveStatements.html)* [The language containing the same number of 01 and 10 is regular](https://www.youtube.com/watch?v=yuFF0gXC6HU).* A bit more about [Pumping Lemma](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages#:~:text=plus%20one.,Bar%2DHillel%2C%20Micha%20A.) for the regular language* **Homework** for this Chapter is due by 9 p.m. on Monday, October 9, 2023. **You have to type it up**.](notes/CS378/danaScottACM082022.pdf)
+* A [richer finite state automata](notes/CS378/DFACACM052021.pdf)
+* A [colorful perspective](http://grammarware.net/slides/2014/regular.pdf) of regular languages in the formal language hierarchy
+* [Applications](http://cs.wellesley.edu/~cs235/fall11/lectures/22_reglang_apps.pdf) of regular languages
+* More [applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.4212&rep=rep1&type=pdf) of regular laguages
+* Dana Scott on [NFA* Some notions and examples of [logic arguments](https://www.csm.ornl.gov/~sheldon/ds/sec1.3.html)
+* Some notions and examples of [contrapositive arguments](http://math.armstrong.edu/faculty/lambert/ConverseInverseAndContrapositiveStatements.html)
+* [The language containing the same number of 01 and 10 is regular](https://www.youtube.com/watch?v=yuFF0gXC6HU).
+* A bit more about [Pumping Lemma](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages#:~:text=plus%20one.,Bar%2DHillel%2C%20Micha%20A.) for the regular language
+* **Homework** for this Chapter is due by 9 p.m. on Monday, October 9, 2023. **You have to type it up**.](notes/CS378/danaScottACM082022.pdf)
 
 - ### [Push-down automata and context-free languages](notes/CS378/note3.pdf)
 
 Define, analyze and design Push-down automata(PDA) and its corresponding formal language(CFL) generated by the Context-free grammars. Prove the equivalency between NPDA and CFL. Discuss the closure properties enjoyed by the CFL, and the existence of strictly stronger languages, context-sensitive languages and beyond, via another pumping lemma. Application of CFL in programming languages.
 
-* [Aho and Ullman's Turing Lecture on Compilers and other stuff](notes/CS378/turingLecture022022.pdf)* [Applications](https://en.wikipedia.org/wiki/Context-free_language) of Context-free grammars* [Properties](http://infolab.stanford.edu/~ullman/ialc/spr10/slides/cfl5.pdf) of Context-free languages* C [grammer rules](http://marvin.cs.uidaho.edu/Teaching/CS445/c-Grammar.pdf)* Java [grammar rules](https://cs.au.dk/~amoeller/RegAut/JavaBNF.html)* Python [grammar rules](https://docs.python.org/3/reference/grammar.html)* More about [Noam Chomskey](https://en.wikipedia.org/wiki/Noam_Chomsky)* The [CYK Parsing algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) as included in JFlag is based on Chomskey's normal form.* Something about the [c-flat](https://www.cs.nmsu.edu/~dfoesch/Cb/SPECIFICATIONS.html) language* What about [non-determinism](notes/CS378/nond.pdf)?* [ACM 2020 Turing Award on compilers](notes/CS378/compilerCACM102021.pdf)* [LL grammar](https://en.wikipedia.org/wiki/LL_grammar) and [LL parser](https://en.wikipedia.org/wiki/LL_parser)* [LR parser](https://en.wikipedia.org/wiki/LR_parser)* **Homework** for this Chapter is due by 9 p.m., on October 23, 2023. **You have to type it up**.* **Midterm**: Wednesday, October 25, 2023- ### [Computability](notes/CS378/note4.pdf)
+* [Aho and Ullman's Turing Lecture on Compilers and other stuff](notes/CS378/turingLecture022022.pdf)
+* [Applications](https://en.wikipedia.org/wiki/Context-free_language) of Context-free grammars
+* [Properties](http://infolab.stanford.edu/~ullman/ialc/spr10/slides/cfl5.pdf) of Context-free languages
+* C [grammer rules](http://marvin.cs.uidaho.edu/Teaching/CS445/c-Grammar.pdf)
+* Java [grammar rules](https://cs.au.dk/~amoeller/RegAut/JavaBNF.html)
+* Python [grammar rules](https://docs.python.org/3/reference/grammar.html)
+* More about [Noam Chomskey](https://en.wikipedia.org/wiki/Noam_Chomsky)
+* The [CYK Parsing algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) as included in JFlag is based on Chomskey's normal form.
+* Something about the [c-flat](https://www.cs.nmsu.edu/~dfoesch/Cb/SPECIFICATIONS.html) language
+* What about [non-determinism](notes/CS378/nond.pdf)?* [ACM 2020 Turing Award on compilers](notes/CS378/compilerCACM102021.pdf)
+* [LL grammar](https://en.wikipedia.org/wiki/LL_grammar) and [LL parser](https://en.wikipedia.org/wiki/LL_parser)
+* [LR parser](https://en.wikipedia.org/wiki/LR_parser)
+* **Homework** for this Chapter is due by 9 p.m., on October 23, 2023. **You have to type it up**.
+* **Midterm**: Wednesday, October 25, 2023- ### [Computability](notes/CS378/note4.pdf)
 
 Define, analyze and design Turing Machines(TM) and its variants. Discussion
 of the equivalency with respect to various computational models. Define general algorithms via Church-Turing Thesis.
 
-* Who is [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) and what he has done?* A [pardon](http://www.nytimes.com/2013/12/24/world/europe/alan-turing-enigma-code-breaker-and-computer-pioneer-wins-royal-pardon.html?hp&_r=0) for Turing* What does Alan Turing [mean to us](https://www.turing.ac.uk/blog/what-alan-turing-means-us)?* [Five ways](https://www.youtube.com/watch?v=sT1vmAKdbYY) Alan Turing changed the World* Turing got his own [banknotes](https://www.bbc.com/news/business-57554102)...* David Hilbert's [twenty-three problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems)* Alonzo Church's [λ-calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
-* The [Church-Turing Thesis](https://plato.stanford.edu/entries/church-turing/)* **Homework** for this chapter is due on Monday, November 13, 2023, by 9 p.m..- ### [Decidability](notes/CS378/note5.pdf)
+* Who is [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) and what he has done?
+* A [pardon](http://www.nytimes.com/2013/12/24/world/europe/alan-turing-enigma-code-breaker-and-computer-pioneer-wins-royal-pardon.html?hp&_r=0) for Turing
+* What does Alan Turing [mean to us](https://www.turing.ac.uk/blog/what-alan-turing-means-us)?
+* [Five ways](https://www.youtube.com/watch?v=sT1vmAKdbYY) Alan Turing changed the World
+* Turing got his own [banknotes](https://www.bbc.com/news/business-57554102)...
+* David Hilbert's [twenty-three problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems)
+* Alonzo Church's [λ-calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
+* The [Church-Turing Thesis](https://plato.stanford.edu/entries/church-turing/)
+* **Homework** for this chapter is due on Monday, November 13, 2023, by 9 p.m..
+- ### [Decidability](notes/CS378/note5.pdf)
 
 Discuss the general computability issue in terms of various decidable prblems, particularly, the *Halting problems,* and other undecidable problems.
 
-* About the [universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine)* What did [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) do?* [Did Cantor go crazy?](https://www.quora.com/Is-it-true-that-Cantor-went-crazy-after-imagining-infinity-What-condition-did-he-acquire-What-exactly-did-he-imagine)* Cantor's [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)* **Homework** for this chapter is due on Monday, November 20, 2023, by 9 p.m..
+* About the [universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine)
+* What did [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) do?
+* [Did Cantor go crazy?](https://www.quora.com/Is-it-true-that-Cantor-went-crazy-after-imagining-infinity-What-condition-did-he-acquire-What-exactly-did-he-imagine)
+* Cantor's [diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)
+* **Homework** for this chapter is due on Monday, November 20, 2023, by 9 p.m..
 
 - ### [Reducibility](notes/CS378/note6.pdf)
 
 Introduction of the *reduction* technique in proving more undecidable problems such as the *Post Correspondence Problem.*
 
-* Further [reading](https://math.stackexchange.com/questions/231187/an-efficient-way-to-determine-if-two-context-free-grammars-are-equivalent) on the undecidability of the equivalence regarding context-free grammers* Further [reading](https://people.ksp.sk/~kuko/pcp/#intro) on the Post Correspondence problem* About the "[Back to the future](https://www.imdb.com/title/tt0088763/?ref_=fn_al_tt_1)" movie...
+* Further [reading](https://math.stackexchange.com/questions/231187/an-efficient-way-to-determine-if-two-context-free-grammars-are-equivalent) on the undecidability of the equivalence regarding context-free grammers
+* Further [reading](https://people.ksp.sk/~kuko/pcp/#intro) on the Post Correspondence problem* About the 
+"[Back to the future](https://www.imdb.com/title/tt0088763/?ref_=fn_al_tt_1)" movie...
 
 ![](turkey.jpg)
 
@@ -136,7 +180,14 @@ their application in compiler construction.
 To show the incapability of a computation process, we also discuss the undecidability of
 certain logical theory.
 
-* About [circular definition](https://en.wikipedia.org/wiki/Circular_definition)* What is [this](https://www.w3schools.com/java/ref_keyword_this.asp) in Java?* [Self reference](https://plato.stanford.edu/entries/self-reference/) in philosophy* Entire human genome in [printed form](https://www.genome.gov/human-genome-project)* [Recursion theorem, its proof, and examples (Video)](https://www.youtube.com/watch?v=iXpp5X6WPkE)* What is [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic)?* About Aristotle's [syllogism](https://en.wikipedia.org/wiki/Syllogism)* More on [Fermat's last theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)* How about the [Pythagorean theorem](https://www.britannica.com/science/Pythagorean-theorem)?
+* About [circular definition](https://en.wikipedia.org/wiki/Circular_definition)
+* What is [this](https://www.w3schools.com/java/ref_keyword_this.asp) in Java?
+* [Self reference](https://plato.stanford.edu/entries/self-reference/) in philosophy* Entire human genome in [printed form](https://www.genome.gov/human-genome-project)
+* [Recursion theorem, its proof, and examples (Video)](https://www.youtube.com/watch?v=iXpp5X6WPkE)
+* What is [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic)?
+* About Aristotle's [syllogism](https://en.wikipedia.org/wiki/Syllogism)
+* More on [Fermat's last theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+* How about the [Pythagorean theorem](https://www.britannica.com/science/Pythagorean-theorem)?
 
 ![](xmasM.jpg)
 
