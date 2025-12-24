@@ -4,8 +4,7 @@ CS3780 Introduction to Computational Theory (Fall 2023)
 ---
 
 
-- **How to get in touch with me:** M, W: 11:00 a.m.
- - 12:00 p.m., F: 10:00 a.m. - 12:00 p.m., and whenever my door, Draper & Maynard Building 422, is open
+- **How to get in touch with me:** M, W: 11:00 a.m. - 12:00 p.m., F: 10:00 a.m. - 12:00 p.m., and whenever my door, Draper & Maynard Building 422, is open
 - **The best way to contact me:** [Email me](mailto:zshen@plymouth.edu?subject=Subject) any time between 8 a.m. and 9 p.m.: zshen@plymouth.edu
 - My [home page](https://turing.plymouth.edu/~zshen/)
 
